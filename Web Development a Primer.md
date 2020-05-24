@@ -16,13 +16,13 @@ Tags: Web Development
 - The *doctype* is a declaration that the browser the HTML version that the document is written in.
 - Example:
 
-![](/Users/PravinSelvarajah/Documents/GitHub/Web_Development_Primer/Web Development a Primer /Untitled 1.png)
+![](Untitled 1.png)
 
 - HTML comments look like this:
     - <! - - Comment - - >
 - Attributes are always placed in the opening tag of an element and exist as key/value pairs:
 
-![Web%20Development%20a%20Primer/Untitled%201.png](Web%20Development%20a%20Primer/Untitled%201.png)
+![](assets/Web Development a Primer-42616c64.png)
 
 ## CSS
 
