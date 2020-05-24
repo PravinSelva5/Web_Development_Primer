@@ -16,7 +16,7 @@ Tags: Web Development
 - The *doctype* is a declaration that the browser the HTML version that the document is written in.
 - Example:
 
-![](Untitled 1.png)
+![](Web Development a Primer /Untitled 1.png)
 
 - HTML comments look like this:
     - <! - - Comment - - >
