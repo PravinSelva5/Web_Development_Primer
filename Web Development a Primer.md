@@ -16,7 +16,7 @@ Tags: Web Development
 - The *doctype* is a declaration that the browser the HTML version that the document is written in.
 - Example:
 
-![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled.png)
+![](/Users/PravinSelvarajah/Documents/GitHub/Web_Development_Primer/Web Development a Primer /Untitled 1.png)
 
 - HTML comments look like this:
     - <! - - Comment - - >
@@ -263,6 +263,7 @@ Tags: Web Development
     - **mv path/to/file/filename .** —  moves file to the current directory
     - **mv path/to/file/filename ..** — moves file to the parent directory
 - **rm fileName** — removing files
+- **git diff fileName** - can be used to check the differences between the working directory and staging area
 
 ## What is Git and Why Use it?
 
