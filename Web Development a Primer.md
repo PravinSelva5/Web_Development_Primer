@@ -22,7 +22,7 @@ Tags: Web Development
     - <! - - Comment - - >
 - Attributes are always placed in the opening tag of an element and exist as key/value pairs:
 
-![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%201.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%201.png)
+![Web%20Development%20a%20Primer/Untitled%201.png](Web%20Development%20a%20Primer/Untitled%201.png)
 
 ## CSS
 
