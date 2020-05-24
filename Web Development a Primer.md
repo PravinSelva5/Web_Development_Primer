@@ -15,14 +15,14 @@ Tags: Web Development
 - The <body> tag actually contains the actual markup like paragraphs, images, and tables that are **displayed in the browser./**
 - The *doctype* is a declaration that the browser the HTML version that the document is written in.
 - Example:
+![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled.png)
 
-![](Web Development a Primer /Untitled 1.png)
 
 - HTML comments look like this:
     - <! - - Comment - - >
 - Attributes are always placed in the opening tag of an element and exist as key/value pairs:
 
-![](assets/Web Development a Primer-42616c64.png)
+![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%201.png)
 
 ## CSS
 
@@ -32,7 +32,7 @@ Tags: Web Development
         - When CSS is used in the **style attribute** of HTML tags.
         - This is inefficient and not scalable
 
-        ![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%202.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%202.png)
+        ![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%202.png)
 
     - Internal CSS
         - You can use <style> tags within the <head> of the HTML to define the style of a certain tag
@@ -40,7 +40,7 @@ Tags: Web Development
         - CSS is written in a separate file
         - You can link the CSS file to the HTML file by writing a **self-closing link tag in your HTML head:**
 
-            ![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%203.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%203.png)
+            ![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%203.png)
 
         - The **rel** attribute of the link element above tells the HTML to import a CSS file
 - Page Layout Techniques
@@ -56,7 +56,7 @@ Tags: Web Development
 - Javascript can be written directly into an HTMl file using the <script> tag
 - You can also import javascript files into the HTML file similar to CSS
 
-![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%204.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%204.png)
+![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%204.png)
 
 - You can place an external reference in either the <head> or <body>.
 - The HTML structure can be mapped onto a **tree**. The DOM stores these HTML elements as objects that can then be manipulated in various ways through JavaScript
@@ -125,7 +125,7 @@ Tags: Web Development
     - **Controller**
         - middle man for the Model and the View
 
-    ![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%205.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%205.png)
+    ![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%205.png)
 
 ### Types of Frameworks
 
@@ -227,14 +227,14 @@ Tags: Web Development
         - Express is built on Node js to simplify operations that may be complicated in the basic Node js code.
         - Therefore, the underlying event-driven code that you will be writing is Node JS
 
-        ![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%206.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%206.png)
+        ![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%206.png)
 
 ### MERNStack
 
 - Same structure as the MEANStack but **the front-end framework is different.**
 - The front-end of MERN stacked applications are made with **React JS instead of Angular JS.**
 
-![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%207.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%207.png)
+![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%207.png)
 
 ## Isomorphic frameworks vs software stacks
 
@@ -323,11 +323,11 @@ Tags: Web Development
 - On the top of your GitHub repository's Quick Setup page, click & copy the remote repository URL
 - Add the URL like this:
 
-![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%208.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%208.png)
+![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%208.png)
 
 - **Then push your changes in your local repository to Github:**
 
-![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%209.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%209.png)
+![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%209.png)
 
 - A branch:
     - It's a parallel version of a repo. It's contained within the repo but doesn't affect the primary or master branch, allowing you to work freely without disrupting the "live" version.
@@ -335,7 +335,7 @@ Tags: Web Development
 - A **pull request** is a proposed change to the repo submitted by a user & needs to be reviewed, and accepted or rejected by the other collaborators.
     - Once **approved**, it can be *merged with the master branch or other branches*
 
-    ![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%2010.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%2010.png)
+    ![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%2010.png)
 
 # Principles of Software Engineering
 
@@ -353,25 +353,25 @@ Tags: Web Development
     4. Software Evolution
         - Ongoing stage, where you continuously come up with features that you think **will make your application better & implement them**
 
-    ![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%2011.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%2011.png)
+    ![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%2011.png)
 
     - All process models can be categorized as:
         1. Plan-Drive
             - all process activities are planned in advance
 
-            ![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%2012.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%2012.png)
+            ![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%2012.png)
 
         2. Agile
             - Planning is incremental
             - Easier to change the process in accordance with changing customer requirements
 
-            ![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%2013.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%2013.png)
+            ![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%2013.png)
 
     ## The Waterfall Model (Plan-Driven Process)
 
     - First published model of the software development process.
 
-    ![Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%2014.png](Web%20Development%20a%20Primer%2057ffb065493c4c7bb3ae6a140cb5cb58/Untitled%2014.png)
+    ![](https://github.com/PravinSelva5/Web_Development_Primer/blob/master/Web%20Development%20a%20Primer%20/Untitled%2014.png)
 
     - There are multiple stages involved and each stage must be completed before the next one
     - The 5 stages are:
